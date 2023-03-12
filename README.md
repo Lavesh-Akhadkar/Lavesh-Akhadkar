@@ -2,7 +2,7 @@
 # Hi , I am Lavesh Akhadkar
 ### I am a computer engineering student at Savitribai Phule Pune University
 
-- 🌱 I’m currently learning **Artificial Intelligence using python @Harvard's CS50**
+- 🌱 I’m currently learning **Artificial Intelligence using python**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
