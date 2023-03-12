@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavesh Akhadkar</h1>
-<h3 align="center">I am currently a student pursuing computer engineering for Savitribai Phule Pune University</h3>
+<h3 align="center">I am currently a student pursuing computer engineering at Savitribai Phule Pune University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavesh-akhadkar&label=Profile%20views&color=0e75b6&style=flat" alt="lavesh-akhadkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavesh-akhadkar" alt="lavesh-akhadkar" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence using python @Harvard's CS50**
 
