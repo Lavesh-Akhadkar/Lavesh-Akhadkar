@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavesh-akhadkar&show_icons=true&locale=en&theme=dracula&count_private=true" alt="lavesh-akhadkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavesh-akhadkar&theme=dracula&count_private=true" alt="lavesh-akhadkar" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavesh-akhadkar&layout=compact"
