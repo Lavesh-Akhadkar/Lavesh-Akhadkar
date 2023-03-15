@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavesh-akhadkar&theme=dracula&count_private=true" alt="lavesh-akhadkar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavesh-akhadkar&layout=compact"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavesh-akhadkar&layout=compact"/></p>
