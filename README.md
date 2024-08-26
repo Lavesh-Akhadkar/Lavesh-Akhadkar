@@ -13,8 +13,6 @@
 📫 Email: **[laveshakhadkar@gmail.com](mailto:laveshakhadkar@gmail.com)**
 </p>
 
-<img align='' src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' alt='coding-gif' height='250'/>
-
 <img align='left' src='https://cutewallpaper.org/24/computer-animated-gif/marketing-787e9-gifs-ce8c8-zellus-29aa4-digital-0c17e-marketing.gif' alt='computer-animation' height='75'/><h2 align="left"> <br>Languages and Tools:</h2>
 
 
